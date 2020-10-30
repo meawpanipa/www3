@@ -2,6 +2,7 @@
     <title>LAB ITF-11</title>
 </head>
 <body>
+    <BODY BGCOLOR="#FF0000"> 
     <h1><font color="blue">รับไปเลย ผลงานแลปประจำวันนี้</font></h1>
     <p>นางสาว ภรณีนิภา สองเมือง</p>
     <p>ชื่อเล่น มะเหมี่ยว</p>
